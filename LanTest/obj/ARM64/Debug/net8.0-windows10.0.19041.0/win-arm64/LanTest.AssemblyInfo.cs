@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LanTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1e1a62a2a2c0760f7ca3f234159e688be25bbb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LanTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LanTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
