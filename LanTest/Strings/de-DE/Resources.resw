@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>LanTest</value>
+  </data>
+  <data name="Header" xml:space="preserve">
+    <value>Spracheinstellungen</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Wählen Sie die in LanTest verwendete Sprache aus.</value>
+  </data>
+  <data name="LanguageLabel" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+</root>

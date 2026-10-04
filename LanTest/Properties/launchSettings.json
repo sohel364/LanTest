@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LanTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LanTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
